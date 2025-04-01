@@ -7,10 +7,10 @@ TODO
 # Dependencies
 TODO
 
-# Instalation
+# Installation
 TODO
 
-# Fearures
+# Features
 TODO
 
 # Links 
