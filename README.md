@@ -1,14 +1,17 @@
-# fishpylib
+# fishpylib 📊
 A Python library for fisheries sciences.
 
-# ABOUT
+# About
 TODO
 
-# EXIGENCIES
+# Dependencies
 TODO
 
-# SETUP INSTRUCTIONS
+# Instalation
 TODO
 
-# DOCUMENTATION
+# Fearures
+TODO
+
+# Links 
 TODO
