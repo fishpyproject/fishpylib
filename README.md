@@ -9,7 +9,7 @@ TODO
 
 # Installation
 
-'''bash
+'''shellscript
 pip install fishpylib
 '''
 
