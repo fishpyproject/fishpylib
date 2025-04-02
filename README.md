@@ -9,9 +9,9 @@ TODO
 
 # Installation
 
-'''shellscript
+''''bash
 pip install fishpylib
-'''
+''''
 
 # Features
 TODO
