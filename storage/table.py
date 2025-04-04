@@ -1,6 +1,8 @@
 class Table:
-  # TODO: class docstring
+  #TODO: class docstring
   
   def __init__(self):
-    self.__data = {}
+    #TODO: initializer method docstring
+    self._data = {}
+    self._hiden = {}
     
