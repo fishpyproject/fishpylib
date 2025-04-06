@@ -8,4 +8,3 @@ class Table:
         else:
             #TODO: type(data) validation
             self._data = data
-        self._hiden = {}
