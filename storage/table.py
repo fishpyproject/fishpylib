@@ -26,5 +26,3 @@ class Table:
             self._data: Dict[str, List[Any]] = data
         else:
             raise TypeError("data must be of type Dict[str, List[Any]], List[List[Any]] or None")
-        
-        self._hiden: Dict[str, List[Any]] = {}
