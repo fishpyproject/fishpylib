@@ -1,5 +1,5 @@
 # fishpylib 📊
-A Python library for fisheries sciences.
+A Python library for...
 
 # About
 TODO
